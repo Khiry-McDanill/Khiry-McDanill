@@ -8,7 +8,7 @@ I trained at Zip Code Wilmington, where I built individual and team projects acr
 
 - **[STEAMCon](https://github.com/SparkCitySTEAMConvention/STEAMCon)** — Team convention application. I worked on the React frontend, including the responsive landing page, navigation, featured sessions, and track cards. The goal was to help visitors understand the event and find a clear path to the information they need.
 - **[Rock and Hard Places v2](https://github.com/Khiry-McDanill/rock-and-hard-places-v2)** — A project and task management concept inspired by my construction background, built with Spring Boot. It explores how homeowners and project teams can organize work in one place.
-- **Stardust** — Team-built Spring Boot forum with accounts, subforums, posts, and comments. My work included search, bookmarks, notifications, and navigation improvements. *(Add the repository link when ready.)*
+- **Stardust** — Team-built Spring Boot forum with accounts, subforums, posts, and comments. My work included search, bookmarks, notifications, and navigation improvements.
 
 ## Tools I use
 
