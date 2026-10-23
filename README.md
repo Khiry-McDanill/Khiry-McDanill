@@ -1,6 +1,6 @@
 # Hi, I'm Khiry McDanill 👋
 
-I'm a software developer building practical applications with Java, Spring Boot, React, and SQL. Before moving into software, I worked as a journeyman carpenter and maintenance supervisor. That background shaped how I approach development: understand the plan, build carefully, test what matters, and make the result useful to people.
+I'm a software developer that builds practical applications with Java, Spring Boot, React, and SQL. Before moving into software, I worked as a journeyman carpenter and maintenance supervisor. That background shaped how I approach development: understand the plan, build carefully, test what matters, and make the result useful to people.
 
 I trained at Zip Code Wilmington, where I built individual and team projects across backend development, user interfaces, and application design. I'm especially interested in software that connects the digital world to real work in construction, infrastructure, and robotics.
 
